@@ -1,1 +1,1 @@
-# YojiNonaka.selectQuiz.github.io2
+# YN.selectQuiz.github.io2
